@@ -2,11 +2,6 @@
   <channel id="Metrotv.yt">
     <display-name lang="en">MetroTV</display-name>
   </channel>
-  <programme channel="Metrotv.yt" start="20240503180000 +0100" stop="20240503210000 +0100">
-    <title lang="en">METRO TV - LIVE STREAMING</title>
-    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
-    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Metrotv.yt" start="20240503210000 +0100" stop="20240504000000 +0100">
     <title lang="en">METRO TV - LIVE STREAMING</title>
     <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
@@ -38,6 +33,11 @@
     <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Metrotv.yt" start="20240504150000 +0100" stop="20240504180000 +0100">
+    <title lang="en">METRO TV - LIVE STREAMING</title>
+    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
+    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Metrotv.yt" start="20240504180000 +0100" stop="20240504210000 +0100">
     <title lang="en">METRO TV - LIVE STREAMING</title>
     <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
     <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
