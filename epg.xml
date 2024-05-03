@@ -42,4 +42,47 @@
     <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
     <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="ChocoTaco.tt">
+    <display-name lang="en">ChocoTaco</display-name>
+  </channel>
+  <programme channel="ChocoTaco.tt" start="20240503210000 +0100" stop="20240504000000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">duos /w Bob</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240504000000 +0100" stop="20240504030000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">duos /w Bob</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240504030000 +0100" stop="20240504060000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">duos /w Bob</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240504060000 +0100" stop="20240504090000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">duos /w Bob</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240504090000 +0100" stop="20240504120000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">duos /w Bob</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240504120000 +0100" stop="20240504150000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">duos /w Bob</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240504150000 +0100" stop="20240504180000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">duos /w Bob</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240504180000 +0100" stop="20240504210000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">duos /w Bob</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
 </tv>
