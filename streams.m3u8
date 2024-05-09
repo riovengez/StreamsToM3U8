@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Metrotv.yt" tvg-name="MetroTV" group-title="News", MetroTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715267520/ei/YJM8ZvPmCqacsfIP6Pe0mAU/ip/52.157.3.96/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOHEfLsM_LMmxBrE8iklAeA4zEbumj04QxQ5N24oXi2KAiEAhb6iN03Kt_hJKdSQzAoQB3hM-tE6Co_POQjcDuoz8Xw%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715278756/ei/RL88ZsXoF4DRj-8P1JCOwAI/ip/40.76.117.200/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZOVFsgHtpuShJmtDmInSgKA0efpn4AKFBz65qCwMRpMCIALGHaH_TjJBan7HrrLn8ygbVBpaHcYzPOvuOlgyPdO9/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ChocoTaco.tt" tvg-name="ChocoTaco" group-title="Gaming", ChocoTaco
