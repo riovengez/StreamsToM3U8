@@ -2,11 +2,6 @@
   <channel id="Metrotv.yt">
     <display-name lang="en">MetroTV</display-name>
   </channel>
-  <programme channel="Metrotv.yt" start="20240517210000 +0100" stop="20240518000000 +0100">
-    <title lang="en">METRO TV - LIVE STREAMING</title>
-    <desc lang="en">METRO TV - LIVE STREAMING #metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendap...</desc>
-    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Metrotv.yt" start="20240518000000 +0100" stop="20240518030000 +0100">
     <title lang="en">METRO TV - LIVE STREAMING</title>
     <desc lang="en">METRO TV - LIVE STREAMING #metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendap...</desc>
@@ -42,47 +37,52 @@
     <desc lang="en">METRO TV - LIVE STREAMING #metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendap...</desc>
     <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Metrotv.yt" start="20240518210000 +0100" stop="20240519000000 +0100">
+    <title lang="en">METRO TV - LIVE STREAMING</title>
+    <desc lang="en">METRO TV - LIVE STREAMING #metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendap...</desc>
+    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20240517210000 +0100" stop="20240518000000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">rivals @ 4 PM CENTRAL</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
   <programme channel="ChocoTaco.tt" start="20240518000000 +0100" stop="20240518030000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">rivals @ 4 PM CENTRAL</desc>
+    <desc lang="en">rivals NOW</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240518030000 +0100" stop="20240518060000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">rivals @ 4 PM CENTRAL</desc>
+    <desc lang="en">rivals NOW</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240518060000 +0100" stop="20240518090000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">rivals @ 4 PM CENTRAL</desc>
+    <desc lang="en">rivals NOW</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240518090000 +0100" stop="20240518120000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">rivals @ 4 PM CENTRAL</desc>
+    <desc lang="en">rivals NOW</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240518120000 +0100" stop="20240518150000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">rivals @ 4 PM CENTRAL</desc>
+    <desc lang="en">rivals NOW</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240518150000 +0100" stop="20240518180000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">rivals @ 4 PM CENTRAL</desc>
+    <desc lang="en">rivals NOW</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240518180000 +0100" stop="20240518210000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">rivals @ 4 PM CENTRAL</desc>
+    <desc lang="en">rivals NOW</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240518210000 +0100" stop="20240519000000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">rivals NOW</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
 </tv>
