@@ -2,26 +2,6 @@
   <channel id="Metrotv.yt">
     <display-name lang="en">MetroTV</display-name>
   </channel>
-  <programme channel="Metrotv.yt" start="20240607060000 +0100" stop="20240607090000 +0100">
-    <title lang="en">METRO TV - LIVE STREAMING</title>
-    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
-    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Metrotv.yt" start="20240607090000 +0100" stop="20240607120000 +0100">
-    <title lang="en">METRO TV - LIVE STREAMING</title>
-    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
-    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Metrotv.yt" start="20240607120000 +0100" stop="20240607150000 +0100">
-    <title lang="en">METRO TV - LIVE STREAMING</title>
-    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
-    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Metrotv.yt" start="20240607150000 +0100" stop="20240607180000 +0100">
-    <title lang="en">METRO TV - LIVE STREAMING</title>
-    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
-    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Metrotv.yt" start="20240607180000 +0100" stop="20240607210000 +0100">
     <title lang="en">METRO TV - LIVE STREAMING</title>
     <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
@@ -42,29 +22,29 @@
     <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
     <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Metrotv.yt" start="20240608060000 +0100" stop="20240608090000 +0100">
+    <title lang="en">METRO TV - LIVE STREAMING</title>
+    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
+    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Metrotv.yt" start="20240608090000 +0100" stop="20240608120000 +0100">
+    <title lang="en">METRO TV - LIVE STREAMING</title>
+    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
+    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Metrotv.yt" start="20240608120000 +0100" stop="20240608150000 +0100">
+    <title lang="en">METRO TV - LIVE STREAMING</title>
+    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
+    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Metrotv.yt" start="20240608150000 +0100" stop="20240608180000 +0100">
+    <title lang="en">METRO TV - LIVE STREAMING</title>
+    <desc lang="en">METRO TV - LIVE STREAMING#metrotv #livestreaming -----------------------------------------------------------------------Follow juga sosmed kami untuk mendapa...</desc>
+    <icon src="https://i.ytimg.com/vi/XKueVSGTk2o/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20240607060000 +0100" stop="20240607090000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240607090000 +0100" stop="20240607120000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240607120000 +0100" stop="20240607150000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240607150000 +0100" stop="20240607180000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="ChocoTaco.tt" start="20240607180000 +0100" stop="20240607210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -81,6 +61,26 @@
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240608030000 +0100" stop="20240608060000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240608060000 +0100" stop="20240608090000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240608090000 +0100" stop="20240608120000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240608120000 +0100" stop="20240608150000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240608150000 +0100" stop="20240608180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
