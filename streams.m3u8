@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Metrotv.yt" tvg-name="MetroTV" group-title="News", MetroTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722408265/ei/6YipZsWiBY-GkucPjtib2Qs/ip/74.249.5.108/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bASEcGp0L0Ns7BGEG0o-yiPzgG6fm3SedyskqcQSyvkMAZK2oPlSOiHfb98E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK4YVGmmE5LHHFjDqGXRoCEwkcjk7Sozlh-k3X0vMZ1YAiEA0GHTG18wZXyFgA07kzUVwFGW9tqHhJVb9ILVLSKG4OU%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722417195/ei/y6upZvXuEbitlu8PrpCd8As/ip/172.183.82.211/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAaXXcRW2HmL8smQmxWOitbiMzgl4arA3Ih_vWH4HWeCA0rlqJsU9TCPBf2U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOfOPse3lFZnUmWfLe9i5y3vUsYtRnYUI3_936p1qpHYCIQDNK60fhpNsGmW2bwWlZEOdvyzUBOykPjBiA41Q7rA3XA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ChocoTaco.tt" tvg-name="ChocoTaco" group-title="Gaming", ChocoTaco
