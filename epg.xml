@@ -2,42 +2,42 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20240911000000 +0100" stop="20240911030000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240911030000 +0100" stop="20240911060000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240911060000 +0100" stop="20240911090000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240911090000 +0100" stop="20240911120000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240911120000 +0100" stop="20240911150000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240911150000 +0100" stop="20240911180000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="ChocoTaco.tt" start="20240911180000 +0100" stop="20240911210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240911210000 +0100" stop="20240912000000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240912000000 +0100" stop="20240912030000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240912030000 +0100" stop="20240912060000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240912060000 +0100" stop="20240912090000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240912090000 +0100" stop="20240912120000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240912120000 +0100" stop="20240912150000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240912150000 +0100" stop="20240912180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
