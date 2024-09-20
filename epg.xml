@@ -2,42 +2,42 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20240920000000 +0100" stop="20240920030000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">test drive? bosses?</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240920030000 +0100" stop="20240920060000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">test drive? bosses?</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240920060000 +0100" stop="20240920090000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">test drive? bosses?</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240920090000 +0100" stop="20240920120000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">test drive? bosses?</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240920120000 +0100" stop="20240920150000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">test drive? bosses?</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20240920150000 +0100" stop="20240920180000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">test drive? bosses?</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
   <programme channel="ChocoTaco.tt" start="20240920180000 +0100" stop="20240920210000 +0100">
     <title lang="en">chocoTaco</title>
     <desc lang="en">test drive? bosses?</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20240920210000 +0100" stop="20240921000000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">test drive? bosses?</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240921000000 +0100" stop="20240921030000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">test drive? bosses?</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240921030000 +0100" stop="20240921060000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">test drive? bosses?</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240921060000 +0100" stop="20240921090000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">test drive? bosses?</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240921090000 +0100" stop="20240921120000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">test drive? bosses?</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240921120000 +0100" stop="20240921150000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">test drive? bosses?</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20240921150000 +0100" stop="20240921180000 +0100">
     <title lang="en">chocoTaco</title>
     <desc lang="en">test drive? bosses?</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
