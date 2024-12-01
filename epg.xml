@@ -2,42 +2,42 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20241130210000 +0000" stop="20241201000000 +0000">
+  <programme channel="ChocoTaco.tt" start="20241201010000 +0000" stop="20241201040000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">DOTA 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20241201000000 +0000" stop="20241201030000 +0000">
+  <programme channel="ChocoTaco.tt" start="20241201040000 +0000" stop="20241201070000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">DOTA 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20241201030000 +0000" stop="20241201060000 +0000">
+  <programme channel="ChocoTaco.tt" start="20241201070000 +0000" stop="20241201100000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">DOTA 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20241201060000 +0000" stop="20241201090000 +0000">
+  <programme channel="ChocoTaco.tt" start="20241201100000 +0000" stop="20241201130000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">DOTA 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20241201090000 +0000" stop="20241201120000 +0000">
+  <programme channel="ChocoTaco.tt" start="20241201130000 +0000" stop="20241201160000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">DOTA 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20241201120000 +0000" stop="20241201150000 +0000">
+  <programme channel="ChocoTaco.tt" start="20241201160000 +0000" stop="20241201190000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">DOTA 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20241201150000 +0000" stop="20241201180000 +0000">
+  <programme channel="ChocoTaco.tt" start="20241201190000 +0000" stop="20241201220000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">DOTA 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20241201180000 +0000" stop="20241201210000 +0000">
+  <programme channel="ChocoTaco.tt" start="20241201220000 +0000" stop="20241202010000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">DOTA 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
