@@ -2,11 +2,6 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20241226180000 +0000" stop="20241226210000 +0000">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">HAVE A NICE WIPE</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
   <programme channel="ChocoTaco.tt" start="20241226210000 +0000" stop="20241227000000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">HAVE A NICE WIPE</desc>
@@ -38,6 +33,11 @@
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20241227150000 +0000" stop="20241227180000 +0000">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">HAVE A NICE WIPE</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20241227180000 +0000" stop="20241227210000 +0000">
     <title lang="en">chocoTaco</title>
     <desc lang="en">HAVE A NICE WIPE</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
