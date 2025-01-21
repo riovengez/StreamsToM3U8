@@ -2,44 +2,44 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20250121030000 +0000" stop="20250121060000 +0000">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">it's that time again</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250121060000 +0000" stop="20250121090000 +0000">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">it's that time again</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250121090000 +0000" stop="20250121120000 +0000">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">it's that time again</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250121120000 +0000" stop="20250121150000 +0000">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">it's that time again</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250121150000 +0000" stop="20250121180000 +0000">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">it's that time again</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
   <programme channel="ChocoTaco.tt" start="20250121180000 +0000" stop="20250121210000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">it's that time again</desc>
+    <desc lang="en">day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20250121210000 +0000" stop="20250122000000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">it's that time again</desc>
+    <desc lang="en">day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20250122000000 +0000" stop="20250122030000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">it's that time again</desc>
+    <desc lang="en">day 2</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250122030000 +0000" stop="20250122060000 +0000">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">day 2</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250122060000 +0000" stop="20250122090000 +0000">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">day 2</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250122090000 +0000" stop="20250122120000 +0000">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">day 2</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250122120000 +0000" stop="20250122150000 +0000">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">day 2</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250122150000 +0000" stop="20250122180000 +0000">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
 </tv>
