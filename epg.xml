@@ -2,44 +2,44 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20250125030000 +0000" stop="20250125060000 +0000">
+  <programme channel="ChocoTaco.tt" start="20250126180000 +0000" stop="20250126210000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Moar Jeff</desc>
+    <desc lang="en">Duos with Hali</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250125060000 +0000" stop="20250125090000 +0000">
+  <programme channel="ChocoTaco.tt" start="20250126210000 +0000" stop="20250127000000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Moar Jeff</desc>
+    <desc lang="en">Duos with Hali</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250125090000 +0000" stop="20250125120000 +0000">
+  <programme channel="ChocoTaco.tt" start="20250127000000 +0000" stop="20250127030000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Moar Jeff</desc>
+    <desc lang="en">Duos with Hali</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250125120000 +0000" stop="20250125150000 +0000">
+  <programme channel="ChocoTaco.tt" start="20250127030000 +0000" stop="20250127060000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Moar Jeff</desc>
+    <desc lang="en">Duos with Hali</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250125150000 +0000" stop="20250125180000 +0000">
+  <programme channel="ChocoTaco.tt" start="20250127060000 +0000" stop="20250127090000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Moar Jeff</desc>
+    <desc lang="en">Duos with Hali</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250125180000 +0000" stop="20250125210000 +0000">
+  <programme channel="ChocoTaco.tt" start="20250127090000 +0000" stop="20250127120000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Moar Jeff</desc>
+    <desc lang="en">Duos with Hali</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250125210000 +0000" stop="20250126000000 +0000">
+  <programme channel="ChocoTaco.tt" start="20250127120000 +0000" stop="20250127150000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Moar Jeff</desc>
+    <desc lang="en">Duos with Hali</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250126000000 +0000" stop="20250126030000 +0000">
+  <programme channel="ChocoTaco.tt" start="20250127150000 +0000" stop="20250127180000 +0000">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Moar Jeff</desc>
+    <desc lang="en">Duos with Hali</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
 </tv>
