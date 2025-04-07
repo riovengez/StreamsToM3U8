@@ -2,44 +2,44 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20250406210000 +0100" stop="20250407000000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">Sunday PUBG</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250407000000 +0100" stop="20250407030000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">Sunday PUBG</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250407030000 +0100" stop="20250407060000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">Sunday PUBG</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250407060000 +0100" stop="20250407090000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">Sunday PUBG</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250407090000 +0100" stop="20250407120000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">Sunday PUBG</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250407120000 +0100" stop="20250407150000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">Sunday PUBG</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250407150000 +0100" stop="20250407180000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">Sunday PUBG</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
   <programme channel="ChocoTaco.tt" start="20250407180000 +0100" stop="20250407210000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">Sunday PUBG</desc>
+    <desc lang="en">Monday PUBG</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250407210000 +0100" stop="20250408000000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">Monday PUBG</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250408000000 +0100" stop="20250408030000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">Monday PUBG</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250408030000 +0100" stop="20250408060000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">Monday PUBG</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250408060000 +0100" stop="20250408090000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">Monday PUBG</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250408090000 +0100" stop="20250408120000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">Monday PUBG</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250408120000 +0100" stop="20250408150000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">Monday PUBG</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250408150000 +0100" stop="20250408180000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">Monday PUBG</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
 </tv>
