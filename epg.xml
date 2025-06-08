@@ -2,44 +2,44 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20250607010000 +0100" stop="20250607040000 +0100">
+  <programme channel="ChocoTaco.tt" start="20250608180000 +0100" stop="20250608210000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">DeceasedCraft</desc>
+    <desc lang="en">DeceasedCraft - Day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250607040000 +0100" stop="20250607070000 +0100">
+  <programme channel="ChocoTaco.tt" start="20250608210000 +0100" stop="20250609000000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">DeceasedCraft</desc>
+    <desc lang="en">DeceasedCraft - Day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250607070000 +0100" stop="20250607100000 +0100">
+  <programme channel="ChocoTaco.tt" start="20250609000000 +0100" stop="20250609030000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">DeceasedCraft</desc>
+    <desc lang="en">DeceasedCraft - Day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250607100000 +0100" stop="20250607130000 +0100">
+  <programme channel="ChocoTaco.tt" start="20250609030000 +0100" stop="20250609060000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">DeceasedCraft</desc>
+    <desc lang="en">DeceasedCraft - Day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250607130000 +0100" stop="20250607160000 +0100">
+  <programme channel="ChocoTaco.tt" start="20250609060000 +0100" stop="20250609090000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">DeceasedCraft</desc>
+    <desc lang="en">DeceasedCraft - Day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250607160000 +0100" stop="20250607190000 +0100">
+  <programme channel="ChocoTaco.tt" start="20250609090000 +0100" stop="20250609120000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">DeceasedCraft</desc>
+    <desc lang="en">DeceasedCraft - Day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250607190000 +0100" stop="20250607220000 +0100">
+  <programme channel="ChocoTaco.tt" start="20250609120000 +0100" stop="20250609150000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">DeceasedCraft</desc>
+    <desc lang="en">DeceasedCraft - Day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
-  <programme channel="ChocoTaco.tt" start="20250607220000 +0100" stop="20250608010000 +0100">
+  <programme channel="ChocoTaco.tt" start="20250609150000 +0100" stop="20250609180000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">DeceasedCraft</desc>
+    <desc lang="en">DeceasedCraft - Day 2</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
 </tv>
