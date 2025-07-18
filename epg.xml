@@ -2,44 +2,44 @@
   <channel id="ChocoTaco.tt">
     <display-name lang="en">ChocoTaco</display-name>
   </channel>
-  <programme channel="ChocoTaco.tt" start="20250717210000 +0100" stop="20250718000000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">one week. one tk. W.</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250718000000 +0100" stop="20250718030000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">one week. one tk. W.</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250718030000 +0100" stop="20250718060000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">one week. one tk. W.</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250718060000 +0100" stop="20250718090000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">one week. one tk. W.</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250718090000 +0100" stop="20250718120000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">one week. one tk. W.</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="ChocoTaco.tt" start="20250718120000 +0100" stop="20250718150000 +0100">
-    <title lang="en">chocoTaco</title>
-    <desc lang="en">one week. one tk. W.</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
-  </programme>
   <programme channel="ChocoTaco.tt" start="20250718150000 +0100" stop="20250718180000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">one week. one tk. W.</desc>
+    <desc lang="en">chocoTaco streams live on Twitch! Check out their videos, sign up to chat, and join their community.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
   <programme channel="ChocoTaco.tt" start="20250718180000 +0100" stop="20250718210000 +0100">
     <title lang="en">chocoTaco</title>
-    <desc lang="en">one week. one tk. W.</desc>
+    <desc lang="en">chocoTaco streams live on Twitch! Check out their videos, sign up to chat, and join their community.</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250718210000 +0100" stop="20250719000000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">chocoTaco streams live on Twitch! Check out their videos, sign up to chat, and join their community.</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250719000000 +0100" stop="20250719030000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">chocoTaco streams live on Twitch! Check out their videos, sign up to chat, and join their community.</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250719030000 +0100" stop="20250719060000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">chocoTaco streams live on Twitch! Check out their videos, sign up to chat, and join their community.</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250719060000 +0100" stop="20250719090000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">chocoTaco streams live on Twitch! Check out their videos, sign up to chat, and join their community.</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250719090000 +0100" stop="20250719120000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">chocoTaco streams live on Twitch! Check out their videos, sign up to chat, and join their community.</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="ChocoTaco.tt" start="20250719120000 +0100" stop="20250719150000 +0100">
+    <title lang="en">chocoTaco</title>
+    <desc lang="en">chocoTaco streams live on Twitch! Check out their videos, sign up to chat, and join their community.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/07156e3d-eac2-4d5f-acc1-8a942a59e6e2-profile_image-300x300.png"/>
   </programme>
 </tv>
